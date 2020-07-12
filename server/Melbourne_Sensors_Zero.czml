@@ -1,0 +1,115 @@
+[
+    {
+        "version": "1.0", 
+        "id": "document", 
+        "name": "Melbourne Sensor Locations"
+    },
+    {
+        "position": {
+            "cartographicDegrees": [
+                "144.96675572", 
+                "-37.81333081", 
+                70
+            ]
+        }, 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "231 Bourke St\n(0)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "id": "231 Bourke St", 
+        "name": "231 Bourke St"
+    },
+    {
+        "position": {
+            "cartographicDegrees": [
+                "144.95792282", 
+                "-37.79949544", 
+                70
+            ]
+        }, 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Royal Pde - Grattan St\n(0)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "id": "Royal Pde - Grattan St", 
+        "name": "Royal Pde - Grattan St"
+    }
+]

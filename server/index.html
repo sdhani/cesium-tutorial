@@ -1,23 +1,42 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <script src="https://cesium.com/downloads/cesiumjs/releases/1.71/Build/Cesium/Cesium.js"></script>
-  <link href="https://cesium.com/downloads/cesiumjs/releases/1.71/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
-</head>
-<body>
-  <div id="cesiumContainer" style="width: 700px; height:400px"></div>
-  <script>
-    Cesium.Ion.defaultAccessToken = 'cesium-key';
-    var viewer = new Cesium.Viewer('cesiumContainer', {
-      terrainProvider: Cesium.createWorldTerrain()
-    });
-    var tileset = viewer.scene.primitives.add(
-      new Cesium.Cesium3DTileset({
-          url: Cesium.IonResource.fromAssetId(your_asset_id)
-      })
-    );
-    viewer.zoomTo(tileset)
-  </script>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://cesium.com/downloads/cesiumjs/releases/1.71/Build/Cesium/Cesium.js"></script>
+    <link
+      href="https://cesium.com/downloads/cesiumjs/releases/1.71/Build/Cesium/Widgets/widgets.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div
+      id="cesiumContainer"
+      style="width: 1024px; height: 700px; margin: 50px;"
+    ></div>
+    <div style="margin: 50px;">
+      <iframe
+        title="Melbourne Australia Sensor Tutorial"
+        width="1024"
+        height="576"
+        src="https://cesium.com/ion/stories/viewer/?id=d008fe2e-f7cc-4860-a2a0-9bf0eac4106f"
+        frameborder="0"
+        allow="fullscreen"
+        allowfullscreen="true"
+        mozallowfullscreen="true"
+        webkitallowfullscreen="true"
+      ></iframe>
+    </div>
+    <script>
+      Cesium.Ion.defaultAccessToken = "cesium-key";
+      var viewer = new Cesium.Viewer("cesiumContainer", {
+        terrainProvider: Cesium.createWorldTerrain(),
+      });
+      var tileset = viewer.scene.primitives.add(
+        new Cesium.Cesium3DTileset({
+          url: Cesium.IonResource.fromAssetId(your_asset_id),
+        })
+      );
+      viewer.zoomTo(tileset);
+    </script>
+  </body>
 </html>
