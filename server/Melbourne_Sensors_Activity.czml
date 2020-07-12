@@ -1,0 +1,2757 @@
+[
+    {
+        "version": "1.0", 
+        "id": "document", 
+        "name": "Melbourne Sensor Locations"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Lonsdale St (South)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>9,632,267</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Lon189_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/10/14</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>30</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Lonsdale St (South)\n(9,632,267)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Lonsdale St (South)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96656807", 
+                "-37.81121849", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Lonsdale St (South)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Lincoln-Swanston (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>541,802</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Swa607_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2018/06/26</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>54</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Lincoln-Swanston (West)\n(541,802)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Lincoln-Swanston (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.963084", 
+                "-37.804024", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Lincoln-Swanston (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>QVM-Franklin St (North)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>582,607</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Fra118_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/11/30</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>51</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "QVM-Franklin St (North)\n(582,607)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "QVM-Franklin St (North)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95906317", 
+                "-37.80841814", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "QVM-Franklin St (North)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Little Collins St-Swanston St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>5,068,200</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Swa148_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/06/29</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>45</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Little Collins St-Swanston St (East)\n(5,068,200)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Little Collins St-Swanston St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.9660938", 
+                "-37.81414074", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Little Collins St-Swanston St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Faraday St-Lygon St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,269,647</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Lyg309_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/11/30</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>50</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Faraday St-Lygon St (West)\n(2,269,647)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Faraday St-Lygon St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96721014", 
+                "-37.79808191", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Faraday St-Lygon St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>RMIT Building 14</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>595,929</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>RMIT14_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/06/28</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>61</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "RMIT Building 14\n(595,929)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "RMIT Building 14", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96309115", 
+                "-37.80767455", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "RMIT Building 14"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>La Trobe St (North)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>111,517</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Lat224_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/09/25</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>62</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "La Trobe St (North)\n(111,517)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "La Trobe St (North)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96216521", 
+                "-37.80996494", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "La Trobe St (North)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>231 Bourke St</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>0</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Bou231_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2020/01/07</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>63</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "231 Bourke St\n(0)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "231 Bourke St", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96675572", 
+                "-37.81333081", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "231 Bourke St"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Royal Pde - Grattan St</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>0</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Grat292_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2020/01/16</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>64</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Royal Pde - Grattan St\n(0)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Royal Pde - Grattan St", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95792282", 
+                "-37.79949544", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Royal Pde - Grattan St"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Southbank</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>15,379,380</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>SouthB_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2016/04/11</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>35</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Southbank\n(15,379,380)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Southbank", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96508877", 
+                "-37.82017828", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Southbank"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>City Square</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>8,311,316</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>CSq_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/12/20</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>32</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "City Square\n(8,311,316)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "City Square", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96685718", 
+                "-37.81573742", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "City Square"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Melbourne Convention Exhibition Centre</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>6,299,837</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>MCEC_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/10/02</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>25</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Melbourne Convention Exhibition Centre\n(6,299,837)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Melbourne Convention Exhibition Centre", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95604426", 
+                "-37.82401776", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Melbourne Convention Exhibition Centre"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>QV Market-Elizabeth St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>6,004,986</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Eli483_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/09/28</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>26</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "QV Market-Elizabeth St (West)\n(6,004,986)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "QV Market-Elizabeth St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96049404", 
+                "-37.80869542", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "QV Market-Elizabeth St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>QV Market-Peel St</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,580,366</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Vic_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/08/16</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>27</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "QV Market-Peel St\n(1,580,366)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "QV Market-Peel St", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95644693", 
+                "-37.80606888", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "QV Market-Peel St"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Chinatown-Lt Bourke St (South)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>8,894,662</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>LtB170_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/09/06</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>20</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Chinatown-Lt Bourke St (South)\n(8,894,662)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Chinatown-Lt Bourke St (South)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.9682466", 
+                "-37.81172913", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Chinatown-Lt Bourke St (South)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Bourke St-Russell St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>11,924,264</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Rus180_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/09/02</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>21</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Bourke St-Russell St (West)\n(11,924,264)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Bourke St-Russell St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96778757", 
+                "-37.81244703", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Bourke St-Russell St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flinders St-Elizabeth St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>17,753,691</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Eli274_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/08/12</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>22</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flinders St-Elizabeth St (East)\n(17,753,691)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flinders St-Elizabeth St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96506823", 
+                "-37.81786445", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flinders St-Elizabeth St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Pelham St (South)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>400,275</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Pel147_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/07/10</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>46</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Pelham St (South)\n(400,275)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Pelham St (South)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96156731", 
+                "-37.80240719", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Pelham St (South)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Melbourne Central-Elizabeth St (East)Melbourne Central-Elizabeth St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>5,108,492</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Eli250_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/08/24</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>47</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Melbourne Central-Elizabeth St (East)Melbourne Central-Elizabeth St (East)\n(5,108,492)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Melbourne Central-Elizabeth St (East)Melbourne Central-Elizabeth St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96220077", 
+                "-37.81160331", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Melbourne Central-Elizabeth St (East)Melbourne Central-Elizabeth St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Tin Alley-Swanston St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>942,104</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>UM3_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/04/15</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>44</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Tin Alley-Swanston St (West)\n(942,104)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Tin Alley-Swanston St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96440378", 
+                "-37.79690473", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Tin Alley-Swanston St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Grattan St-Swanston St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,013,118</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>UM1_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/04/15</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>42</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Grattan St-Swanston St (West)\n(2,013,118)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Grattan St-Swanston St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96386412", 
+                "-37.80008565", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Grattan St-Swanston St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>The Arts Centre</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>13,121,827</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>VAC_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/08/23</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>28</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "The Arts Centre\n(13,121,827)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "The Arts Centre", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96879309", 
+                "-37.82129924", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "The Arts Centre"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Monash Rd-Swanston St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,677,906</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>UM2_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/04/15</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>43</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Monash Rd-Swanston St (West)\n(1,677,906)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Monash Rd-Swanston St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96411782", 
+                "-37.79844525", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Monash Rd-Swanston St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Lonsdale St-Spring St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,475,850</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Spr201_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/01/19</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>40</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Lonsdale St-Spring St (West)\n(2,475,850)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Lonsdale St-Spring St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.97227588", 
+                "-37.80999341", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Lonsdale St-Spring St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Princes Bridge</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>27,591,501</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>PriNW_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/26</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>5</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Princes Bridge\n(27,591,501)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Princes Bridge", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96787656", 
+                "-37.81874249", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Princes Bridge"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Town Hall (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>32,109,868</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Swa123_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/23</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>4</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Town Hall (West)\n(32,109,868)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Town Hall (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.9660878", 
+                "-37.81487988", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Town Hall (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Birrarung Marr</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>9,098,671</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Fed_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2014/12/17</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>7</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Birrarung Marr\n(9,098,671)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Birrarung Marr", 
+        "position": {
+            "cartographicDegrees": [
+                "144.97169395", 
+                "-37.81862929", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Birrarung Marr"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flinders Street Station Underpass</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>27,256,224</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>FliS_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/25</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>6</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flinders Street Station Underpass\n(27,256,224)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flinders Street Station Underpass", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96558256", 
+                "-37.81911704", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flinders Street Station Underpass"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Southern Cross Station</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>5,490,745</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Col700_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/23</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>9</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Southern Cross Station\n(5,490,745)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Southern Cross Station", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95102556", 
+                "-37.81982992", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Southern Cross Station"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Webb Bridge</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,419,575</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>WebBN_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/24</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>8</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Webb Bridge\n(2,419,575)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Webb Bridge", 
+        "position": {
+            "cartographicDegrees": [
+                "144.94717511", 
+                "-37.82293543", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Webb Bridge"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flinders St-Spring St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,357,407</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Spr13_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2014/04/23</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>33</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flinders St-Spring St (West)\n(1,357,407)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flinders St-Spring St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.97454056", 
+                "-37.81483252", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flinders St-Spring St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Alfred Place</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,488,633</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>AlfPl_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/12/04</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>39</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Alfred Place\n(1,488,633)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Alfred Place", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96995745", 
+                "-37.81379749", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Alfred Place"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flinders St-Swanston St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>11,883,907</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Swa11_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2014/12/05</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>38</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flinders St-Swanston St (West)\n(11,883,907)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flinders St-Swanston St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96715033", 
+                "-37.81723437", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flinders St-Swanston St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Building 80 RMIT</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>496,040</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>RMIT_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/02/13</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>59</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Building 80 RMIT\n(496,040)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Building 80 RMIT", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96304859", 
+                "-37.80825648", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Building 80 RMIT"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>St Kilda Rd-Alexandra Gardens</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>5,899,566</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>AG_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/10/11</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>29</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "St Kilda Rd-Alexandra Gardens\n(5,899,566)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "St Kilda Rd-Alexandra Gardens", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96863453", 
+                "-37.81965808", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "St Kilda Rd-Alexandra Gardens"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Sandridge Bridge</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>9,179,137</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>SanBri_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2019/09/25</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>14</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Sandridge Bridge\n(9,179,137)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Sandridge Bridge", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96291898", 
+                "-37.82011242", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Sandridge Bridge"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Waterfront City</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,867,818</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>WatCit_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/01/20</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>11</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Waterfront City\n(2,867,818)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Waterfront City", 
+        "position": {
+            "cartographicDegrees": [
+                "144.93970695", 
+                "-37.81564989", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Waterfront City"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Victoria Point</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>3,068,441</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>BouHbr_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/04/23</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>10</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Victoria Point\n(3,068,441)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Victoria Point", 
+        "position": {
+            "cartographicDegrees": [
+                "144.94710545", 
+                "-37.81876473", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Victoria Point"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flagstaff Station</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>5,772,526</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Wil277_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/03/24</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>13</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flagstaff Station\n(5,772,526)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flagstaff Station", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95652653", 
+                "-37.81239679", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flagstaff Station"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>New Quay</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>6,042,525</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>NewQ_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2009/01/21</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>12</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "New Quay\n(6,042,525)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "New Quay", 
+        "position": {
+            "cartographicDegrees": [
+                "144.94292398", 
+                "-37.81457987", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "New Quay"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Bourke St - Spencer St (North)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,733,185</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Bou688_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2018/09/27</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>58</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Bourke St - Spencer St (North)\n(1,733,185)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Bourke St - Spencer St (North)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95358075", 
+                "-37.81686074", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Bourke St - Spencer St (North)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Chinatown-Swanston St (North)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>12,045,357</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>LtB210_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/09/02</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>19</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Chinatown-Swanston St (North)\n(12,045,357)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Chinatown-Swanston St (North)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96550671", 
+                "-37.81237202", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Chinatown-Swanston St (North)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Bourke St Bridge</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,502,352</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>BouBri_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2018/08/13</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>57</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Bourke St Bridge\n(1,502,352)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Bourke St Bridge", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95025595", 
+                "-37.8176735", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Bourke St Bridge"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>QVM-Therry St (South)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>714,508</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Eli501_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/11/29</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>49</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "QVM-Therry St (South)\n(714,508)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "QVM-Therry St (South)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95956055", 
+                "-37.80730067", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "QVM-Therry St (South)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Lygon St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,810,655</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Lyg260_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/02/11</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>37</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Lygon St (East)\n(2,810,655)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Lygon St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96671452", 
+                "-37.80310271", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Lygon St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Queen St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>2,356,642</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Que85_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2015/01/20</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>36</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Queen St (West)\n(2,356,642)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Queen St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96121063", 
+                "-37.81652527", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Queen St (West)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Flinders St-Spark La</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,828,514</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Fli32_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2014/06/08</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>34</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Flinders St-Spark La\n(1,828,514)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Flinders St-Spark La", 
+        "position": {
+            "cartographicDegrees": [
+                "144.9741505", 
+                "-37.81537985", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Flinders St-Spark La"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Elizabeth St-La Trobe St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>875,505</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Eli380_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2018/07/19</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>55</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Elizabeth St-La Trobe St (East)\n(875,505)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Elizabeth St-La Trobe St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96134331", 
+                "-37.80988941", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Elizabeth St-La Trobe St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>QVM-Queen St (East)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>1,119,290</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>QVMQ_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2017/10/02</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>48</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "QVM-Queen St (East)\n(1,119,290)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "QVM-Queen St (East)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.95866698", 
+                "-37.80631581", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "QVM-Queen St (East)"
+    }, 
+    {
+        "description": "\n\t\t<table class=\"cesium-infoBox-defaultTable cesium-infoBox-defaultTable-lighter\">\n\t\t\t<tbody>\n\t\t\t\t<tr><th>Location</th><td>Lygon St (West)</td></tr>\n\t\t\t\t<tr><th>Pedestrian count</th><td>7,347,613</td></tr>\n\t\t\t\t<tr><th>Sensor name</th><td>Lyg161_T</td></tr>\n\t\t\t\t<tr><th>Installation date</th><td>2013/10/10</td></tr>\n\t\t\t\t<tr><th>Sensor id</th><td>31</td></tr>\n\t\t\t</tbody>\n\t\t</table>\n\t\t", 
+        "label": {
+            "pixelOffset": {
+                "cartesian2": [
+                    0, 
+                    -20
+                ]
+            }, 
+            "scaleByDistance": {
+                "nearFarScalar": [
+                    100, 
+                    3, 
+                    1000, 
+                    0
+                ]
+            }, 
+            "text": "Lygon St (West)\n(7,347,613)", 
+            "disableDepthTestDistance": 9999999999, 
+            "outlineColor": [
+                0, 
+                0, 
+                0, 
+                255
+            ], 
+            "style": "FILL_AND_OUTLINE", 
+            "outlineWidth": 3, 
+            "heightReference": "RELATIVE_TO_GROUND"
+        }, 
+        "id": "Lygon St (West)", 
+        "position": {
+            "cartographicDegrees": [
+                "144.96658911", 
+                "-37.8016968", 
+                70
+            ]
+        }, 
+        "ellipse": {
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            255, 
+                            0, 
+                            0, 
+                            128
+                        ]
+                    }
+                }
+            }, 
+            "semiMinorAxis": 20.0, 
+            "semiMajorAxis": 20.0
+        }, 
+        "name": "Lygon St (West)"
+    }
+]
